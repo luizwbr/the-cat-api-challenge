@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bczRLJ iHeqKj"
+  >
+    <img
+      alt="cat-image-6rb"
+      class="sc-gsnTZi dUmWvC"
+      id="image-6rb"
+      loading="lazy"
+      src="https://cdn2.thecatapi.com/images/6rb.gif"
+      width="450"
+    />
+  </div>
+</DocumentFragment>
+`;
